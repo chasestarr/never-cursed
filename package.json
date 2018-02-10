@@ -7,5 +7,22 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "postcss": "^6.0.16"
+  },
+  "devDependencies": {
+    "eslint": "^4.15.0",
+    "eslint-config-postcss": "^2.0.2",
+    "jest": "^21.0.0"
+  },
+  "scripts": {
+    "test": "jest && eslint *.js"
+  },
+  "eslintConfig": {
+    "extends": "eslint-config-postcss/es5",
+    "env": {
+      "jest": true
+    }
+  }
 }

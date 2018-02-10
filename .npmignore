@@ -1,0 +1,9 @@
+.editorconfig
+.gitignore
+.npmignore
+
+node_modules/
+npm-debug.log
+
+*.test.js
+.circleci
