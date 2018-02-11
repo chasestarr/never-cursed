@@ -1,5 +1,6 @@
-[![NPM version](https://badge.fury.io/js/never-cursed.svg)](http://badge.fury.io/js/never-cursed)
-## never cursed 
+[![NPM version](https://badge.fury.io/js/never-cursed.svg)](http://badge.fury.io/js/never-cursed) ![CI Status](https://circleci.com/gh/chasestarr/never-cursed.svg?style=shield&circle-token=f3bf89a95bd24baea5c88f1c6d3536b1c69b4fa6)
+
+## never cursed
 
 [![never-cursed](/images/never-cursed.jpg)](https://www.youtube.com/watch?v=bT_XjcdgT6g)
 
