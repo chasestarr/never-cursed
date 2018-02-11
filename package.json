@@ -1,6 +1,6 @@
 {
   "name": "never-cursed",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Converts 10px scaled rem to default 16px === 1rem",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,12 @@
   },
   "author": "github.com/chasestarr",
   "license": "ISC",
-  "keywords": ["css", "rem", "postcss", "postcss-plugin"],
+  "keywords": [
+    "css",
+    "rem",
+    "postcss",
+    "postcss-plugin"
+  ],
   "repository": {
     "type": "git",
     "url": "git@github.com:chasestarr/never-cursed.git"
@@ -27,7 +32,10 @@
       "jest": true
     },
     "rules": {
-      "indent": ["error", 2]
+      "indent": [
+        "error",
+        2
+      ]
     }
   }
 }
