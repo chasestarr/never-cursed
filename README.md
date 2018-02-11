@@ -1,6 +1,7 @@
-## never cursed [![NPM version](https://badge.fury.io/js/never-cursed.svg)](http://badge.fury.io/js/never-cursed)
+[![NPM version](https://badge.fury.io/js/never-cursed.svg)](http://badge.fury.io/js/never-cursed)
+## never cursed 
 
-[![never-cursed](/internals/img/tennis-scene.jpg)](https://www.youtube.com/watch?v=bT_XjcdgT6g)
+[![never-cursed](/images/never-cursed.jpg)](https://www.youtube.com/watch?v=bT_XjcdgT6g)
 
 ### install
 
