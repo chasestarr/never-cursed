@@ -1,13 +1,18 @@
 {
   "name": "never-cursed",
   "version": "1.0.0",
-  "description": "",
+  "description": "Converts 10px scaled rem to default 16px === 1rem",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest && eslint *.js"
   },
-  "author": "",
+  "author": "github.com/chasestarr",
   "license": "ISC",
+  "keywords": ["css", "rem", "postcss", "postcss-plugin"],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:chasestarr/never-cursed.git"
+  },
   "dependencies": {
     "postcss": "^6.0.16"
   },
@@ -16,13 +21,13 @@
     "eslint-config-postcss": "^2.0.2",
     "jest": "^21.0.0"
   },
-  "scripts": {
-    "test": "jest && eslint *.js"
-  },
   "eslintConfig": {
-    "extends": "eslint-config-postcss/es5",
+    "extends": "eslint-config-postcss",
     "env": {
       "jest": true
+    },
+    "rules": {
+      "indent": ["error", 2]
     }
   }
 }
