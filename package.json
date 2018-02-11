@@ -1,6 +1,6 @@
 {
   "name": "never-cursed",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Converts 10px scaled rem to default 16px === 1rem",
   "main": "index.js",
   "scripts": {
